@@ -8,10 +8,6 @@ __pycache__/
 venv/
 .env/
 
-# Logs
-logs/
-*.log
-
 # OS files
 .DS_Store
 Thumbs.db
